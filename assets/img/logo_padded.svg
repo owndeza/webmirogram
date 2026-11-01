@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+  <style>.brand-surface{fill:#6558E8;}</style>
+  <rect class="brand-surface" x="13" y="13" width="134" height="134" rx="37"/>
+  <path d="M47 59h63c9 0 15 7 15 15s-6 15-15 15H87c-10 0-17 7-17 17v23" fill="none" stroke="#FFF" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M46 87h25" fill="none" stroke="#FFF" stroke-width="15" stroke-linecap="round"/>
+  <circle cx="45" cy="87" r="11" fill="#27C7A5" stroke="#FFF" stroke-width="5"/>
+</svg>

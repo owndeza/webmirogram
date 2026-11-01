@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title id="title">telesrv Relay T</title>
+  <rect x="8" y="8" width="144" height="144" rx="40" fill="#6558E8"/>
+  <path d="M44 57h68c9 0 16 7 16 16s-7 16-16 16H87c-10 0-18 8-18 18v25" fill="none" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M43 87h27" fill="none" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="42" cy="87" r="12" fill="#27C7A5" stroke="#FFFFFF" stroke-width="5"/>
+</svg>
