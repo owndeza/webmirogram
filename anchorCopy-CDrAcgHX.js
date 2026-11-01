@@ -1,0 +1,2 @@
+import{t as o}from"./toast-CBI7P2x_.js";import{ax as s}from"./appDialogsManager-Vn8fcDdN.js";import{cc as m,W as h}from"./index-BCejm3cR.js";const n="https://telesrv.net/";function l(t={}){const e=document.createElement("a");e.classList.add("anchor-copy");let r,c="LinkCopied";if(t.mePath){const a=n+t.mePath;r=e.href=e.innerText=a}if(t.username){const a=n+t.username;e.href=a,r=e.innerText="@"+t.username,c="UsernameCopied"}return m(e,a=>{h(a),s(r??e.href),o({langPackKey:c})}),e}export{l as a};
+//# sourceMappingURL=anchorCopy-CDrAcgHX.js.map
